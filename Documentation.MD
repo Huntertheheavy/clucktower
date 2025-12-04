@@ -36,7 +36,7 @@ When `CE_SwapCamera` is called, `CamOff`, `UpdateCamera` and `CamOn` are called 
 
 ##### Construction Script
 
-Sets the footage of the camera to be the material targetting the render target
+Sets the footage of the camera to be the material targeting the render target
 
 ### BP_FirstPersonCharacter
 
