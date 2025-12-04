@@ -1,10 +1,12 @@
 # One Knight at The Clucktower | Development Commentary
 
-Video Demonstration:
+Video Demonstration: https://youtu.be/SJIv2dIWSDU
 
-Itch.io Page:
+Itch.io Page: https://hunters-games.itch.io/one-knight-at-the-clucktower
 
-Programming Documentation:
+Repository Link: https://github.com/Huntertheheavy/clucktower
+
+Programming Documentation: https://github.com/Huntertheheavy/clucktower/blob/main/Documentation.MD
 
 ## Abstract
 
